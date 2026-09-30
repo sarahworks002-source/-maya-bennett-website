@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/admin",
+      "destination": "/maya-bennett-admin-old-ui-appointment-fixed.html"
+    }
+  ]
+}
